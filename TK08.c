@@ -1,5 +1,13 @@
 #include <stdio.h>
 
+int numSubstractor(float num1, float num2) {
+    return num1 = num1 - num2;
+}
+
+int numDivider(float num1, float num2) {
+    return num1 = num1/num2;
+}
+
 int main() {
     int option = 1;
     float num1, num2;
